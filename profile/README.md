@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+The repository here will provide materials and codes related to our Granger causality methods. 
+
+I am currently improving codes and will make them public.
+
+Meanwhile, please email me if you want a code faster and I will send it to you very shortly. 
+
+Thank you!
+
+Ali ;)
+
+
 <!--
 
 **Here are some ideas to get you started:**
